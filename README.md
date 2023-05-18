@@ -1,4 +1,4 @@
-# Arduino Servo Control
+# Arduino Servo Control 🚀
 
 A brief description of what this project does and who it's for
 
@@ -9,6 +9,10 @@ This Arduino project allows you to control a servo motor using a button. By pres
  - [Libraries Used](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
 
 
-## Appendix
+## Description ⚡️
 
-Any additional information goes here
+Feel free to modify the code and adapt it to your specific requirements.
+
+Note: This project assumes that you have basic knowledge of Arduino programming and have the necessary components to build the circuit.
+
+Have fun experimenting with servo motor control using Arduino!
